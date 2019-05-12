@@ -1,0 +1,10 @@
+#test data
+/large.txt
+/medium.txt
+/small.txt
+
+#Pycharm files
+.idea/**
+
+#.pyc files
+*.pyc
