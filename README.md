@@ -15,6 +15,6 @@ Generowanie plików testowych
 Instalacja i uruchomienie Locust
 
     $ python -m pip install locustio
-    $ locust --host=http://localhost:8000
+    $ locust --host=http://localhost:8089
     
     # http://localhost:8089/

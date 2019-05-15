@@ -8,3 +8,8 @@
 
 #.pyc files
 *.pyc
+
+#Docker
+Dockerfile
+Makefile
+requirements.txt
